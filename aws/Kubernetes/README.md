@@ -1,4 +1,4 @@
-# Setup Kuberntes using terraform script
+# Setup Kubernetes using Terraform script
 ### Prerequisite
 #### terraform version 0.11.14
 Download terraform using this link 
